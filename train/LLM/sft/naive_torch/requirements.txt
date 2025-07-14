@@ -1,0 +1,8 @@
+--index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
+
+python-dotenv==1.1.1
+transformers==4.53.1
+datasets==4.0.0

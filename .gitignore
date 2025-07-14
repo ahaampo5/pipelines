@@ -1,0 +1,6 @@
+# Environment
+.env*
+.venv/
+
+# raw_data
+raw_data/
