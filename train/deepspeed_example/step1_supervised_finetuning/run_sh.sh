@@ -1,0 +1,10 @@
+# Multi-GPU
+bash training_scripts/qwen3/multi-gpu/run_qwen3_0.6b.sh
+bash training_scripts/qwen3/multi-gpu/run_qwen3_4b.sh
+bash training_scripts/qwen3/multi-gpu/run_qwen3_8b.sh
+bash training_scripts/qwen3/multi-gpu/run_qwen3_32b.sh
+# Multi-Node-Host
+bash training_scripts/qwen3/multi-node/run_qwen3_0.6b.sh
+bash training_scripts/qwen3/multi-node/run_qwen3_4b.sh
+bash training_scripts/qwen3/multi-node/run_qwen3_8b.sh
+bash training_scripts/qwen3/multi-node/run_qwen3_32b.sh
