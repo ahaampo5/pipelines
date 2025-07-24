@@ -1,0 +1,1 @@
+uv pip install -r requirements.txt   --extra-index-url https://download.pytorch.org/whl/cu124 --index-strategy unsafe-best-match
